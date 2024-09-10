@@ -5,7 +5,12 @@
 package bebidas;
 
 /**
+ *Clase que representa una bebida específica llamada "DarkRoast".
  *
+ * Esta clase extiende de  Beverage y define una implementación concreta
+ * para una bebida. La bebida "DarkRoast" tiene un costo fijo y una descripción
+ * definida.
+
  * @author Jesus Medina ID:00000247527 (╹ڡ╹ )
  */
 public class DarkRoast extends Beverage{

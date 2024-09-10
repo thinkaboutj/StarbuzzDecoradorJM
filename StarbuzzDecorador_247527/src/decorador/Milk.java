@@ -7,6 +7,13 @@ package decorador;
 import bebidas.Beverage;
 
 /**
+ * Clase que representa el condimento "Milk" que se puede agregar a una
+ * bebida.
+ *
+ * Esta clase extiende de CondimentDecorator y actúa como un decorador que añade
+ * sabor a chocolate a una bebida existente. Utiliza el patrón de diseño
+ * *Decorator* para añadir funcionalidad extra (costo y descripción) sin
+ * modificar la clase original de la bebida.
  *
  * @author Jesus Medina ID:00000247527 (╹ڡ╹ )
  */
